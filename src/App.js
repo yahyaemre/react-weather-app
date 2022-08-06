@@ -35,8 +35,8 @@ function App() {
     case "Rain":
       return status[4];
       
-   case "Mist":
-    return status[5];   
+    case "Mist":
+      return status[5];   
 
   }
 }
