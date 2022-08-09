@@ -42,7 +42,7 @@ function App() {
 }
 
   return (
-    <div className="App">
+    <div className="App">sa
       <input 
         value = {query}
         placeholder="Konum Giriniz..."
